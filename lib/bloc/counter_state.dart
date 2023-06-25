@@ -1,5 +1,3 @@
-import 'package:equatable/equatable.dart';
-
 part of 'counter_bloc.dart';
 
 class CounterState extends Equatable {
